@@ -24,17 +24,17 @@ header nav .section>div {
     font-size: 1.5em;
 }
 
-#nissan-leaf-the-electric-family-car {
+#carvelo-leaf-the-electric-family-car {
     font-size: 2.5em;
     margin: 10px 0;
 }
 
-.hero-container.nissan-hero-content,
-.hero-container.nissan-hero-section {
+.hero-container.carvelo-hero-content,
+.hero-container.carvelo-hero-section {
     margin-bottom: 0;
 }
 
-.hero-container.nissan-hero-section {
+.hero-container.carvelo-hero-section {
     & .hero-desc-wrapper {
         max-width: unset;
         background: unset;
@@ -96,7 +96,7 @@ header nav .section>div {
     }
 }
 
-.hero-container.nissan-hero-content {
+.hero-container.carvelo-hero-content {
     & .hero-desc-wrapper {
         display: grid;
         grid-template-columns: 2fr 2fr;
@@ -287,7 +287,7 @@ footer .footer {
     }
 }
 
-.nissan-single-block {
+.carvelo-single-block {
 
     &>.columns-wrapper {
         max-width: 1500px;
@@ -374,7 +374,7 @@ a.button {
     }
 }
 
-main .section.nissan-offer-section {
+main .section.carvelo-offer-section {
     background: #e5e5e5;
     min-height: 100vh;
     padding-top: 120px;
@@ -432,7 +432,7 @@ main .section.nissan-offer-section {
     }
 }
 
-main .section.nissan-faq-block {
+main .section.carvelo-faq-block {
     background: #e5e5e5;
     padding-bottom: 120px;
     box-sizing: border-box;
